@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c32acd70.chunk.css",
+    "main.js": "./static/js/main.3c30313b.chunk.js",
+    "main.js.map": "./static/js/main.3c30313b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c5f62d8b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c5f62d8b.js.map",
+    "static/js/2.669d996b.chunk.js": "./static/js/2.669d996b.chunk.js",
+    "static/js/2.669d996b.chunk.js.map": "./static/js/2.669d996b.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.c32acd70.chunk.css.map": "./static/css/main.c32acd70.chunk.css.map",
+    "static/js/2.669d996b.chunk.js.LICENSE.txt": "./static/js/2.669d996b.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "./static/media/background.147ec040.png",
+    "static/media/circle.8ac22fea.png": "./static/media/circle.8ac22fea.png",
+    "static/media/devnet_rewards.c3102dc6.pdf": "./static/media/devnet_rewards.c3102dc6.pdf",
+    "static/media/sen-logo.5de13f69.svg": "./static/media/sen-logo.5de13f69.svg",
+    "static/media/senswap_whitepaper.44d5df66.pdf": "./static/media/senswap_whitepaper.44d5df66.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5f62d8b.js",
+    "static/js/2.669d996b.chunk.js",
+    "static/css/main.c32acd70.chunk.css",
+    "static/js/main.3c30313b.chunk.js"
+  ]
+}
