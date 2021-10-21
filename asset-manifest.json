@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.c32acd70.chunk.css",
-    "main.js": "./static/js/main.ca21fca8.chunk.js",
-    "main.js.map": "./static/js/main.ca21fca8.chunk.js.map",
+    "main.js": "./static/js/main.55f58f65.chunk.js",
+    "main.js.map": "./static/js/main.55f58f65.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c5f62d8b.js",
     "runtime-main.js.map": "./static/js/runtime-main.c5f62d8b.js.map",
     "static/js/2.4293c37c.chunk.js": "./static/js/2.4293c37c.chunk.js",
@@ -14,12 +14,12 @@
     "static/media/circle.8ac22fea.png": "./static/media/circle.8ac22fea.png",
     "static/media/devnet_rewards.c3102dc6.pdf": "./static/media/devnet_rewards.c3102dc6.pdf",
     "static/media/sen-logo.5de13f69.svg": "./static/media/sen-logo.5de13f69.svg",
-    "static/media/senswap_whitepaper.44d5df66.pdf": "./static/media/senswap_whitepaper.44d5df66.pdf"
+    "static/media/senswap_whitepaper.347d3fea.pdf": "./static/media/senswap_whitepaper.347d3fea.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.c5f62d8b.js",
     "static/js/2.4293c37c.chunk.js",
     "static/css/main.c32acd70.chunk.css",
-    "static/js/main.ca21fca8.chunk.js"
+    "static/js/main.55f58f65.chunk.js"
   ]
 }
